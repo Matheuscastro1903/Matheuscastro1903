@@ -5,7 +5,8 @@
 I am Matheus Castro,a developer passionate about transforming ideas into codes and codes into real solutions.I am studying Information systems in UFRPE and here you can see my main projects
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscastro1903_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscastro1903&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block"><br>
