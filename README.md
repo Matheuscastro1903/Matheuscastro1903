@@ -5,7 +5,7 @@
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscastro1903)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscastro1903)](https://github.com/anuraghazra/github-readme-stats,&theme=dracula)
 
 
 <div style="display: inline_block"><br>
