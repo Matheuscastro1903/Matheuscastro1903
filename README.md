@@ -2,7 +2,11 @@
 
 ## Hello👨🏽‍💻
 
-I am Matheus Castro,a developer passionate about transforming ideas into codes and codes into real solutions.I am studying Information systems in UFRPE and here you can see my main projects
+I am Matheus Castro,a developer passionate about transforming ideas into codes and codes into real solutions.
+
+- I am studying Information systems in UFRPE 
+- I am a python dev ,but i am starting studying JavaScript.
+- My main goal is to be the best dev of the whole world
 
 
 
