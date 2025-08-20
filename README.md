@@ -16,7 +16,7 @@ I am Matheus Castro,a developer passionate about transforming ideas into codes a
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Castro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Castro-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ 
 
 </div>
   
