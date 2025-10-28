@@ -16,7 +16,14 @@ I am Matheus Castro,a developer passionate about transforming ideas into codes a
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Castro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  
+  <img alt="HTML5" title="HTML5" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" title="CSS3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="SQLite" title="SQLite" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  
 
 </div>
   
