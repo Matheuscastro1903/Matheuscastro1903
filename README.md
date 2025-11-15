@@ -34,25 +34,7 @@ I am Matheus Castro,a developer passionate about transforming ideas into codes a
   
   ##
 
-### 📊 Estatísticas
 
-<p>
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=surieltech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=surieltech&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=10" 
-  />
-
-</p>
 
 ## Contact me
 <div> 
