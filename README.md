@@ -20,7 +20,7 @@ I am Matheus Castro,a developer passionate about transforming ideas into codes a
 <div style="display:flex;flex-direction:row"><br>
   <img align="left"" alt="Castro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       
   <img align="left" alt="SQLite" title="SQLite" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
        
